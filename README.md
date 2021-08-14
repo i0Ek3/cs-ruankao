@@ -62,6 +62,17 @@
 - [https://github.com/guanshilong/SystemArchitect](https://github.com/guanshilong/SystemArchitect) 网友自己 7 天考过高级架构师的经历。
 
 
+### 个人整理资源
+
+根据个人需求，对相关资源进行删减整理，打包并发布在阿里云盘，供大家下载使用，如有侵权，请联系我删除。
+
+网盘中的资料相对更全面一些，包含本仓库中没有的教材以及其他一些资源（如极客时间的架构课程等），当然本仓库中有的网盘里也有，大家按需索取吧。
+
+大家且用且珍惜哈！
+
+> [https://www.aliyundrive.com/s/ufmLzTWF73W](https://www.aliyundrive.com/s/ufmLzTWF73W)
+
+
 ## Credit
 
 - GitHub.
