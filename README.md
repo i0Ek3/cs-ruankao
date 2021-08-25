@@ -101,6 +101,16 @@
 
 跨步软考资源相对较老，目前也永久停更了，做一个补充作用还是可以的，直接从官网下载即可。
 
+### 视频资源
+
+个人喜欢将视频下载到本地观看，但视频数量巨大，无法上传分享，因此这里只分享我下载过的视频链接好了。视频内容的话，大家就自行斟酌、选择观看吧，这里不做评价。
+
+- [https://www.bilibili.com/video/BV1fv411V7dH](https://www.bilibili.com/video/BV1fv411V7dH) 大家常说的 179.
+- [https://www.bilibili.com/video/BV1HZ4y1N77x](https://www.bilibili.com/video/BV1HZ4y1N77x) 文老师精讲。
+- [https://www.bilibili.com/video/BV1nh411X7rA](https://www.bilibili.com/video/BV1nh411X7rA) 文老师串讲。
+
+至于如何下载 bilibili 的视频，大家就自行解决吧，相信你都能找到这里，找个下载方法还不简单吗？
+
 
 ## Credit
 
