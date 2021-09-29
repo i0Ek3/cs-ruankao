@@ -138,7 +138,8 @@
 
 个人喜欢将视频下载到本地观看，但视频数量巨大，无法上传分享，因此这里只分享我下载过的视频链接好了。视频内容的话，大家就自行斟酌、选择观看吧，这里不做评价。
 
-- [https://www.bilibili.com/video/BV1fv411V7dH](https://www.bilibili.com/video/BV1fv411V7dH) 大家常说的 179，16 年版。
+- ~~[https://www.bilibili.com/video/BV1fv411V7dH](https://www.bilibili.com/video/BV1fv411V7dH)大家常说的 179，16 年版。~~
+    - 这里更新一个之前网友提供的版本，上面那个已经不存在啦！无法保证和上面的一模一样，因为我也没有看过。[https://www.aliyundrive.com/s/CzRtw9bFB18](https://www.aliyundrive.com/s/CzRtw9bFB18)
 - [https://www.bilibili.com/video/BV1HZ4y1N77x](https://www.bilibili.com/video/BV1HZ4y1N77x) 文老师精讲。
 - [https://www.bilibili.com/video/BV1nh411X7rA](https://www.bilibili.com/video/BV1nh411X7rA) 文老师串讲。
 
